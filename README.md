@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aobakwe  
+# 👋 Hi, I'm Tumisang Malefo  
 **IT Business Systems Student | Junior Developer | Aspiring Business/Data Analyst**
 
 I’m currently completing my **Bachelor of IT in Business Systems** and building my skills in **Java, Python, SQL, Excel, Power BI, Web Development, and UI/UX Design**.  
