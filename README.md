@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tumisang Malefo  
-**IT Business Systems Student | Junior Developer | Aspiring Business/Data Analyst**
+<a href="https://github.com/**IT Business Systems Student | Junior Developer | Aspiring Business/Data Analyst**"</a>
 
 I’m currently completing my **Bachelor of IT in Business Systems** and building my skills in **Java, Python, SQL, Excel, Power BI, Web Development, and UI/UX Design**.  
 I enjoy solving real-world problems, analysing data, and creating clean, user-friendly digital solutions.
