@@ -16,7 +16,7 @@ I enjoy solving real-world problems, analysing data, and creating clean, user-fr
 ## 📂 Projects
 
 ### 🔹 **1. CareerPathway Website**  
-A platform designed to help students explore careers, find internships, and build skills.  
+A designed prototype to help students explore careers, find internships, and build skills.  
 *Role:* UX/UI Designer & Analyst  
 *Tools:* Wix, basic web concepts  
 *Highlights:*  
