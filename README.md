@@ -26,7 +26,7 @@ A designed prototype to help students explore careers, find internships, and bui
 
 ---
 
-### 🔹 **2. EL CAFESITO – Coffee Shop App (Mockup)**  
+### 🔹 **2. EL CAFETINO – Coffee Shop App (Mockup)**  
 A mobile app concept for ordering coffee online.  
 *Role:* UI/UX Designer  
 *Tools:* Figma  
