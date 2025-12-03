@@ -1,4 +1,4 @@
-# EL CAFESITO – Coffee Shop App (Figma Prototype)
+# EL CAFECITO – Coffee Shop App (Figma Prototype)
 
 **Summary**
 Mobile app prototype for a coffee shop ordering system. Built for IT Professional Practice module.
