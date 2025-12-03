@@ -16,4 +16,25 @@ Figma.
 **Highlights**
 - Registration & login screens
 - Product menu with images & prices
+- Size of the item you chose
 - Checkout flow and order confirmation
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login](screenshots/login.png)
+
+### 🍽️ Menu Screen
+![Menu](screenshots/menu.png)
+
+### 📏 Size Selection
+![Size](screenshots/size.png)
+
+### 🛒 Cart
+![Cart](screenshots/cart.png)
+
+### ✅ Order Complete
+![Order Complete](screenshots/order-complete.png)
+
