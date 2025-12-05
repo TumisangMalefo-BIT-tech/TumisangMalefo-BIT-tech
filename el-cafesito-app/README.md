@@ -38,3 +38,8 @@ Figma.
 ### ✅ Order Complete
 ![Order Complete](screenshots/order-complete.png)
 
+---
+
+**Project reflection (PDF):** [EL CAFECITO Project Reflection](el-cafecito-reflection.pdf)
+
+
