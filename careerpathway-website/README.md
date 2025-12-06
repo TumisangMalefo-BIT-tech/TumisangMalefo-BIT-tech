@@ -43,8 +43,8 @@ Wix Website Builder
 ###  Internship Board
 ![Internship Board](screenshots/internship-board.png)
 
-###  Skills & Rescources
-![Skills & Resources](screenshots/skills&rosources.png)
+###  Skills and Rescources
+![Skills and Resources](screenshots/skills-and-rosources.png)
 
 ###  Portfolio Builder 
 ![Portfolio Builder](screenshots/portfolio-builder.png)
