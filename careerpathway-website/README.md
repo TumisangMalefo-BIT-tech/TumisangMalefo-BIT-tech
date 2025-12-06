@@ -27,3 +27,28 @@ Wix Website Builder
 - Easy navigation between career fields and internship options  
 - Realistic layout showing how students can search, explore, and apply  
 - Built fully on Wix without code
+
+---
+## 📸 Screenshots
+
+###  Homepage
+![Homepage](screenshots/homepage.png)
+
+###  Career Explore Page
+![Career Explore](screenshots/career-explore.png)
+
+###  Technology Career
+! [Technology Career](screenshots/technology-career.png)
+
+###  Internship Board
+![Internship Board](screenshots/internship-board.png)
+
+###  Skills & Rescources
+![Skills & Resources](screenshots/skills&rosources.png)
+
+###  Portfolio Builder 
+![Portfolio Builder](screenshots/portfolio-builder.png)
+
+###  Contact
+![Contact](screenshots/contact.png)
+
