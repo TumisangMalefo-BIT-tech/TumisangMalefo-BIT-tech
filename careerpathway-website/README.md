@@ -38,13 +38,13 @@ Wix Website Builder
 ![Career Explore](screenshots/career-explore.png)
 
 ###  Technology Career
-! [Technology Career](screenshots/technology-career.png)
+![Technology Career](screenshots/technology-career.png)
 
 ###  Internships Board
 ![Internships Board](screenshots/internships-board.png)
 
 ###  Skills and Rescources
-![Skills and Resources](screenshots/skills-and-rosources.png)
+![Skills and Resources](screenshots/skills-and-resources.png)
 
 ###  Portfolio Builder 
 ![Portfolio Builder](screenshots/portfolio-builder.png)
