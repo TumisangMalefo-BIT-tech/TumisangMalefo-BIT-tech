@@ -40,8 +40,8 @@ Wix Website Builder
 ###  Technology Career
 ! [Technology Career](screenshots/technology-career.png)
 
-###  Internship Board
-![Internship Board](screenshots/internship-board.png)
+###  Internships Board
+![Internships Board](screenshots/internships-board.png)
 
 ###  Skills and Rescources
 ![Skills and Resources](screenshots/skills-and-rosources.png)
