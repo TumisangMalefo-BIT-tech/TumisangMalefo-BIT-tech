@@ -13,13 +13,13 @@ Wix Website Builder
 
 **What I delivered**  
 - A functional prototype of the CareerPathway website using Wix  
-- Pages including: Homepage, Career Fields, Internship Board, Login, and Dashboard  
+- Pages including: Homepage, Career Explore, Internship Board, Technology Career, Portfolio Border, and Contact  
 - Clear navigation and layout design  
 - A short project reflection  
 - User-friendly visual structure and branding
 
 **Files to upload**  
-- Wix screenshots (homepage, career field page, internship board, login page, student dashboard)  
+- Wix screenshots (homepage, career explore page, Technology Career, internship board, login page, portfolio border, contact)  
 - Project reflection PDF (`careerpathway-reflection.pdf`)
 
 **Highlights**  
