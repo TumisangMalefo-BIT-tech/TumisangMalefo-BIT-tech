@@ -1,14 +1,6 @@
-# SQL & Excel Practice Projects
+# Excel Practice Projects
 
-This folder contains small exercises demonstrating my ability to use SQL and Excel for data-related tasks.
-
-## 🔧 SQL Skills
-- SELECT queries  
-- WHERE filtering  
-- Sorting  
-- MIN, MAX, AVG  
-- COUNT  
-- JOIN basics  
+This folder contains small exercises demonstrating my ability to use Excel for data-related tasks. 
 
 ## 🔧 Excel Skills
 - Formulas  
@@ -18,4 +10,4 @@ This folder contains small exercises demonstrating my ability to use SQL and Exc
 - Tables  
 
 ## 📂 Files
-I will upload sample exercises and Excel practice soon.
+I will upload sample exercises for Excel practice soon.
