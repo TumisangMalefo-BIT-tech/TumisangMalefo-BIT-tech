@@ -8,4 +8,7 @@ This folder contains small exercises demonstrating my ability to use SQL for dat
 - Sorting  
 - MIN, MAX, AVG  
 - COUNT  
-- JOIN basics 
+- JOIN basics
+
+## 📂 Files
+I will upload sample exercises soon.
