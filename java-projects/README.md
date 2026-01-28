@@ -15,4 +15,6 @@ This is a simple Java console application I built to practice object-oriented pr
 This project demonstrates my understanding of Java fundamentals as part of my Bachelors in IT program.
 
 ## 📂 Code
-I will upload the .java file here soon.
+- [Main](Main.java)
+- [Login System](LoginSystem.java)
+- [Calculator](Calculator.java)
