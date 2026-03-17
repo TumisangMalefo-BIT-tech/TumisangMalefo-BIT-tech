@@ -1,119 +1,79 @@
 # 👋 Hi, I'm Tumisang Malefo  
-**BIT Business Systems Graduate | Aspiring Data Analyst / Business Analyst
-Python • SQL • Excel • Power BI • Data Analysis Projects**
-
-I recently completed my **Bachelor of IT in Business Systems** and building my skills in **Java, Python, SQL, Excel, Power BI, Web Development, and UI/UX Design**.  
-I enjoy solving real-world problems, analysing data, and creating clean, user-friendly digital solutions.
+**BIT Business Systems Graduate | Aspiring Data Analyst / Business Analyst**  
+Python • SQL • Excel • Power BI • Data Analysis
 
 ---
 
-## 🚀 Skills  
-- **Languages:** Java, Python, SQL, HTML, CSS, JavaScript (beginner)  
-- **Tools & Tech:** Power BI, Excel, GitHub, VS Code, Figma, Wix  
-- **Other Skills:** Problem-solving, UI/UX design, data analysis, documentation, time management
+## 🚀 About Me  
+I am a recent BIT Business Systems graduate passionate about using data and technology to solve real-world business problems.  
+
+I specialize in **data analysis, system thinking, and building practical projects** using Python and SQL. I enjoy turning raw data into meaningful insights that support decision-making.
 
 ---
 
-## 📂 Projects
-
-### 🔹 **1. CareerPathway Website**  
-A designed prototype to help students explore careers, find internships, and build skills.  
-*Role:* UX/UI Designer & Analyst  
-*Tools:* Wix, basic web concepts  
-*Highlights:*  
-- Research-based design  
-- User-friendly interface  
-- Clear navigation flow  
+## 🛠️ Skills  
+- **Languages:** Python, SQL, Java, HTML, CSS (JavaScript – beginner)  
+- **Tools:** Power BI, Excel, GitHub, VS Code, Figma, Wix  
+- **Core Skills:** Data analysis, problem-solving, UI/UX design, documentation  
 
 ---
 
-### 🔹 **2. EL CAFETINO – Coffee Shop App (Mockup)**  
-A mobile app concept for ordering coffee online.  
-*Role:* UI/UX Designer  
-*Tools:* Figma  
-*Highlights:*  
-- Login & Signup  
-- Coffee menu  
-- Order screens  
-- Modern, clean UI  
+## 📂 Projects  
+
+### 🔹 Football Match Data Analysis (Python)  
+- Analyzed Manchester City vs Liverpool match data  
+- Built visualizations using Matplotlib and Seaborn  
+- Identified trends in goals, results, and performance  
+
+👉 Repository: https://github.com/TumisangMalefo-BIT-tech/football-analysis  
 
 ---
 
-### 🔹 **3. School Shoes Website (HTML/CSS/JS)**  
-A basic website created for my Web Development module.  
-*Skills shown:*  
-- HTML structure  
-- CSS styling  
-- JavaScript interactions 
-- Product listing layout  
-*Highlights:*  
-- Custom design  
-- Simple navigation  
-- Fully coded front-end project  
+### 🔹 SQL Sales Data Analysis  
+- Analyzed sales dataset using SQL queries  
+- Identified top-selling products and revenue trends  
+- Performed grouping, aggregation, and trend analysis  
+
+👉 Repository: https://github.com/TumisangMalefo-BIT-tech/sql-sales-analysis  
 
 ---
 
-### 🔹 **4. Java Project – Student Grade Calculator**  
-A simple Java console application that calculates a student’s average and determines pass/fail.  
-*Skills shown:* Input handling, conditions, clean code  
-*Folder:* `/Java-Project-GradeCalculator/`
+### 🔹 CareerPathway Website (Prototype)  
+A platform designed to help students explore careers and find opportunities.  
+
+- Conducted research-based design  
+- Created user-friendly interface using Wix  
+- Focused on usability and navigation  
 
 ---
 
-### 🔹 **5. Python Projects (Coming Soon)**  
-Small scripts inspired by my Python certificate.  
-Examples to be added:  
-- Basic calculator  
-- Input/output tasks  
-- Simple automation exercises  
+### 🔹 School Shoes Website (HTML/CSS/JS)  
+- Built a front-end website using HTML, CSS, and JavaScript  
+- Implemented product layout and navigation  
+- Demonstrated basic web development skills  
 
 ---
 
-### 🔹 **6. Power BI Dashboard**  
-A dashboard created during my Power BI certificate.  
-*Skills shown:*  
-- Data modelling  
-- Visualisation  
-- Reporting  
-(Uploading soon)
+### 🔹 Java Project – Student Grade Calculator  
+- Console application to calculate student averages  
+- Implemented conditions and input handling  
+- Demonstrates basic Java programming  
 
 ---
 
-### 🔹 **7. SQL Mini Project (Coming Soon)**  
-Database project involving:  
-- Tables  
-- Insert statements  
-- Select queries  
-- Filtering  
-- Joins  
+## 🎓 Certificates  
+- Python Programming – Cursa  
+- Power BI Beginner – Cursa  
 
 ---
 
-### 🔹 **8. Excel Project (Coming Soon)**  
-A simple Excel analysis involving:  
-- Data cleaning  
-- Pivot tables  
-- Dashboard creation  
+## 🎯 Current Focus  
+- Expanding my data analysis portfolio  
+- Building real-world SQL and Python projects  
+- Improving Power BI and dashboarding skills  
 
 ---
 
-## 🎓 Certificates
-- **Python Programming – Cursa**  
-- **Power BI Beginner Certificate – Cursa**
-
----
-
-## 🎯 What I'm Working On
-- Improving Java and Python projects  
-- Building a data analysis portfolio  
-- Creating more real-world systems  
-- Enhancing my UI/UX and web development skills  
-
----
-
-## 📬 Contact Me  
-📧 **Email:** aobakwetumisang67@gmail.com  
-📞 Phone: 082 941 5778
+## 📬 Contact  
+📧 Email: aobakwetumisang67@gmail.com  
 📍 Pretoria, South Africa  
-
----
