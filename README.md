@@ -12,7 +12,7 @@ I specialize in **data analysis, system thinking, and building practical project
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Python, SQL, Java, HTML, CSS (JavaScript – beginner)  
+- **Languages:** Python, SQL, Java  
 - **Tools:** Power BI, Excel, GitHub, VS Code, Figma, Wix  
 - **Core Skills:** Data analysis, problem-solving, UI/UX design, documentation  
 
