@@ -76,4 +76,5 @@ A platform designed to help students explore careers and find opportunities.
 
 ## 📬 Contact  
 📧 Email: aobakwetumisang67@gmail.com  
+📞 Phone: 082 941 5778
 📍 Pretoria, South Africa  
