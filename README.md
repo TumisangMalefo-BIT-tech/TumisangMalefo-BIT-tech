@@ -38,15 +38,6 @@ I specialize in **data analysis, system thinking, and building practical project
 
 ---
 
-### 🔹 CareerPathway Website (Prototype)  
-A platform designed to help students explore careers and find opportunities.  
-
-- Conducted research-based design  
-- Created user-friendly interface using Wix  
-- Focused on usability and navigation  
-
----
-
 ### 🔹 School Shoes Website (HTML/CSS/JS)  
 - Built a front-end website using HTML, CSS, and JavaScript  
 - Implemented product layout and navigation  
@@ -67,10 +58,12 @@ A platform designed to help students explore careers and find opportunities.
 
 ---
 
-## 🎯 Current Focus  
-- Expanding my data analysis portfolio  
-- Building real-world SQL and Python projects  
-- Improving Power BI and dashboarding skills  
+## 🎯 Career Focus  
+I am actively working towards a career in:  
+- Data Analysis  
+- Business Analysis  
+
+I am currently building real-world projects to strengthen my skills in **SQL, data analysis 
 
 ---
 
