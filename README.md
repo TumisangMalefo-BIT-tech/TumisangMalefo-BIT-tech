@@ -34,7 +34,7 @@ I specialize in **data analysis, system thinking, and building practical project
 - Identified top-selling products and revenue trends  
 - Performed grouping, aggregation, and trend analysis  
 
-👉 Repository: https://github.com/TumisangMalefo-BIT-tech/sql-sales-analysis  
+👉 Repository: https://github.com/TumisangMalefo-BIT-tech/sql-sales-data-analysis  
 
 ---
 
