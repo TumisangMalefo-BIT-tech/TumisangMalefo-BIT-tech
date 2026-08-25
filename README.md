@@ -1,44 +1,63 @@
 # 👋 Hi, I'm Tumisang Malefo
 
-**Bachelor of Information Technology in Business Systems Graduate**  
-**Aspiring Business Analyst & Data Analyst**
+### IT Graduate | Business Systems | Data & Business Analysis
 
-SQL • Excel • Python • Business Analysis • Systems Analysis
+SQL • Excel • Python • Power BI • Business Analysis • Systems Analysis
 
 ---
 
+
 ## 🚀 About Me
 
-I am a Business Systems graduate with a passion for solving business problems through data, systems thinking, and process improvement.
+I am a Bachelor of Information Technology in Business Systems graduate with an interest in business analysis, data analysis, and systems analysis.
 
-My academic projects and professional experience have strengthened my skills in business analysis, data analysis, SQL, Excel, and Python. I enjoy translating user and business needs into practical solutions, analysing data to generate insights, and supporting informed decision-making.
+I enjoy using data, technology, and structured problem-solving to understand business needs and develop practical solutions. My project experience includes SQL data analysis, Python data analysis, web development, UI/UX prototyping, and Java programming.
 
-I am currently seeking opportunities in Business Analysis and Data Analytics where I can continue learning, contribute to meaningful projects, and grow as a technology professional.
+I am currently seeking graduate, internship, and entry-level opportunities where I can apply my technical and analytical skills, continue learning, and contribute to meaningful projects.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- SQL (Data querying, filtering, aggregation)
-- Microsoft Excel (Data analysis, formulas, reporting)
-- Python (Pandas, NumPy, Matplotlib)
+### Data & Analytics
+- SQL
+- Microsoft Excel
+- Power BI
+- Python
+- Pandas
+- Matplotlib
+
+### Business & Systems Analysis
 - Business Analysis
+- Requirements Gathering
 - Systems Analysis & Design
+- Process Analysis
+- Business Process Modelling (BPMN)
 - Database Management
+
+### Programming & Web Development
+- Java
+- HTML
+- CSS
+
+### Tools & Platforms
 - Git & GitHub
-- Wix, HTML & CSS
+- Figma
+- Wix
+- Microsoft Power BI
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 CareerPathway Website
+
 **Technologies:** Wix, UX Principles, Systems Analysis
 
-- Designed a career guidance platform to help students explore careers and internship opportunities.
-- Gathered user requirements and translated them into functional features.
-- Applied usability, accessibility, and UX principles to improve the user experience.
-- Produced workflows and supporting documentation for the proposed solution.
+- Designed a career guidance platform to help students explore career paths and internship opportunities.
+- Identified user needs and translated requirements into functional features.
+- Applied usability and UX principles to improve navigation and accessibility.
+- Developed workflows and supporting documentation for the proposed solution.
 
 🔗 Repository:  
 <https://github.com/TumisangMalefo-BIT-tech/careerpathway-website>
@@ -53,12 +72,12 @@ I am currently seeking opportunities in Business Analysis and Data Analytics whe
 - Produced reports that transformed raw data into meaningful business information.
 
 🔗 Repository:  
-<https://github.com/TumisangMalefo-BIT-tech/sql-sales-data-analysis>
+[View Repository] (https://github.com/TumisangMalefo-BIT-tech/sql-sales-data-analysis)
 
 ---
 
 ### 🔹 Football Match Data Analysis (Python)
-**Technologies:** Python, Pandas, NumPy, Matplotlib
+**Technologies:** Python, Pandas, Matplotlib
 
 - Cleaned and analysed structured datasets using Python.
 - Identified statistical trends through exploratory data analysis.
@@ -81,21 +100,50 @@ I am currently seeking opportunities in Business Analysis and Data Analytics whe
 
 ---
 
+### 🔹 El-Caf App Prototype
+
+**Technologies:** Figma, UI/UX Design, Prototyping
+
+- Designed a restaurant app prototype focused on user-friendly navigation and interaction.
+- Created interface designs and interactive prototype screens using Figma.
+- Applied UI/UX principles to structure the user journey and improve usability.
+
+🔗 Repository:  
+<https://github.com/TumisangMalefo-BIT-tech/el-caf-app-prototype>  
+
+---
+
+### 🔹 Java Programming Project
+
+**Technologies:** Java
+
+- Developed Java programs demonstrating programming fundamentals and problem-solving.
+- Implemented a calculator application using Java.
+- Developed a basic login system demonstrating input handling and application logic.
+
+🔗 Repository:  
+<https://github.com/TumisangMalefo-BIT-tech/java-programming-project>
+
+---
+
 ## 🎓 Certifications
 
-- Power BI Short Course — Cursa (2025)
-- Python Short Course — Cursa (2024)
+- Power BI Short Course — Cursa | 2025
+- Python Short Course — Cursa | 2024
+- Microsoft Learn — Power BI learning modules
 
 ---
 
 ## 🎯 Career Interests
 
-I am actively pursuing opportunities in:
+I am interested in opportunities in:
 
 - Business Analysis
 - Data Analysis
 - Systems Analysis
-- Graduate and Internship Programmes in Technology and Business
+- Business Intelligence
+- Software Development
+- Graduate and Entry-Level Technology Roles
 
 ---
 
@@ -106,4 +154,3 @@ I am actively pursuing opportunities in:
 💼 **LinkedIn:**  
 <https://www.linkedin.com/in/tumisangaobakwemalefo-093504292>
 
-📍 **Location:** Pretoria, Gauteng, South Africa
