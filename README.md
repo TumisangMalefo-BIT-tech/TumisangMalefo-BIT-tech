@@ -60,7 +60,7 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Developed workflows and supporting documentation for the proposed solution.
 
 🔗 Repository:  
-<https://github.com/TumisangMalefo-BIT-tech/careerpathway-website>
+[View Repository] (https://github.com/TumisangMalefo-BIT-tech/careerpathway-website)
 
 ---
 
@@ -84,7 +84,7 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Created visualisations to communicate analytical findings effectively.
 
 🔗 Repository:  
-<https://github.com/TumisangMalefo-BIT-tech/football-analysis>
+[View Repository] (https://github.com/TumisangMalefo-BIT-tech/football-analysis)
 
 ---
 
@@ -96,7 +96,7 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Applied foundational front-end development and UX principles.
 
 🔗 Repository:  
-<https://github.com/TumisangMalefo-BIT-tech/student-hub>
+[View Repository] (https://github.com/TumisangMalefo-BIT-tech/student-hub)
 
 ---
 
@@ -109,7 +109,7 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Applied UI/UX principles to structure the user journey and improve usability.
 
 🔗 Repository:  
-<https://github.com/TumisangMalefo-BIT-tech/el-caf-app-prototype>  
+[View Repository] (https://github.com/TumisangMalefo-BIT-tech/el-caf-app-prototype)  
 
 ---
 
@@ -122,7 +122,7 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Developed a basic login system demonstrating input handling and application logic.
 
 🔗 Repository:  
-<https://github.com/TumisangMalefo-BIT-tech/java-programming-project>
+[View Repository] (https://github.com/TumisangMalefo-BIT-tech/java-programming-project)
 
 ---
 
