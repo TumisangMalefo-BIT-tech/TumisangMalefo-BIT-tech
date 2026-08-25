@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tumisang Malefo
 
-### IT Graduate | Business Systems | Data & Business Analysis
+### IT Graduate | Business Systems | Software, Data & Business Analysis
 
 SQL • Excel • Python • Power BI • Business Analysis • Systems Analysis
 
@@ -9,7 +9,7 @@ SQL • Excel • Python • Power BI • Business Analysis • Systems Analysis
 
 ## 🚀 About Me
 
-I am a Bachelor of Information Technology in Business Systems graduate with an interest in business analysis, data analysis, and systems analysis.
+I am a Bachelor of Information Technology in Business Systems graduate with an interest in business analysis, data analysis, software development, and systems analysis.
 
 I enjoy using data, technology, and structured problem-solving to understand business needs and develop practical solutions. My project experience includes SQL data analysis, Python data analysis, web development, UI/UX prototyping, and Java programming.
 
@@ -50,20 +50,6 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 
 ## 📂 Featured Projects
 
-### 🔹 CareerPathway Website
-
-**Technologies:** Wix, UX Principles, Systems Analysis
-
-- Designed a career guidance platform to help students explore career paths and internship opportunities.
-- Identified user needs and translated requirements into functional features.
-- Applied usability and UX principles to improve navigation and accessibility.
-- Developed workflows and supporting documentation for the proposed solution.
-
-🔗 Repository:  
-[View Repository] (https://github.com/TumisangMalefo-BIT-tech/careerpathway-website)
-
----
-
 ### 🔹 Sales Data Analysis (SQL)
 **Technologies:** SQL, Relational Databases
 
@@ -72,7 +58,7 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Produced reports that transformed raw data into meaningful business information.
 
 🔗 Repository:  
-[View Repository] (https://github.com/TumisangMalefo-BIT-tech/sql-sales-data-analysis)
+[View Repository](https://github.com/TumisangMalefo-BIT-tech/sql-sales-data-analysis)
 
 ---
 
@@ -84,32 +70,21 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Created visualisations to communicate analytical findings effectively.
 
 🔗 Repository:  
-[View Repository] (https://github.com/TumisangMalefo-BIT-tech/football-analysis)
+[View Repository](https://github.com/TumisangMalefo-BIT-tech/football-analysis)
 
 ---
 
-### 🔹 Student Hub Website
-**Technologies:** HTML, CSS
+### 🔹 CareerPathway Website
 
-- Developed a multi-page student resource platform featuring study resources, career guidance, and productivity content.
-- Implemented intuitive navigation and accessible user interfaces.
-- Applied foundational front-end development and UX principles.
+**Technologies:** Wix, UX Principles, Systems Analysis
 
-🔗 Repository:  
-[View Repository] (https://github.com/TumisangMalefo-BIT-tech/student-hub)
-
----
-
-### 🔹 El-Caf App Prototype
-
-**Technologies:** Figma, UI/UX Design, Prototyping
-
-- Designed a restaurant app prototype focused on user-friendly navigation and interaction.
-- Created interface designs and interactive prototype screens using Figma.
-- Applied UI/UX principles to structure the user journey and improve usability.
+- Designed a career guidance platform to help students explore career paths and internship opportunities.
+- Identified user needs and translated requirements into functional features.
+- Applied usability and UX principles to improve navigation and accessibility.
+- Developed workflows and supporting documentation for the proposed solution.
 
 🔗 Repository:  
-[View Repository] (https://github.com/TumisangMalefo-BIT-tech/el-caf-app-prototype)  
+[View Repository](https://github.com/TumisangMalefo-BIT-tech/careerpathway-website)
 
 ---
 
@@ -122,7 +97,32 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 - Developed a basic login system demonstrating input handling and application logic.
 
 🔗 Repository:  
-[View Repository] (https://github.com/TumisangMalefo-BIT-tech/java-programming-project)
+[View Repository](https://github.com/TumisangMalefo-BIT-tech/java-programming-project)
+
+---
+
+### 🔹 El-Caf App Prototype
+
+**Technologies:** Figma, UI/UX Design, Prototyping
+
+- Designed a restaurant app prototype focused on user-friendly navigation and interaction.
+- Created interface designs and interactive prototype screens using Figma.
+- Applied UI/UX principles to structure the user journey and improve usability.
+
+🔗 Repository:  
+[View Repository](https://github.com/TumisangMalefo-BIT-tech/el-caf-app-prototype)  
+
+---
+
+### 🔹 Student Hub Website
+**Technologies:** HTML, CSS
+
+- Developed a multi-page student resource platform featuring study resources, career guidance, and productivity content.
+- Implemented intuitive navigation and accessible user interfaces.
+- Applied foundational front-end development and UX principles.
+
+🔗 Repository:  
+[View Repository](https://github.com/TumisangMalefo-BIT-tech/student-hub)
 
 ---
 
@@ -130,7 +130,6 @@ I am currently seeking graduate, internship, and entry-level opportunities where
 
 - Power BI Short Course — Cursa | 2025
 - Python Short Course — Cursa | 2024
-- Microsoft Learn — Power BI learning modules
 
 ---
 
